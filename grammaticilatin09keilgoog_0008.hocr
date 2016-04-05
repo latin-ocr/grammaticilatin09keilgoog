@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./grammaticilatin09keilgoog_0008.png"; bbox 0 0 3613 5528; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1528 4750 2315 4809">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1528 4750 2315 4809">
+     <span class='ocr_line' id='line_1_1' title="bbox 1528 4750 2315 4809; baseline -0.005 0"><span class='ocrx_word' id='word_1_1' title='bbox 1528 4750 1741 4809; x_wconf 57' lang='lat' dir='ltr'><strong>ntrssutz</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1770 4777 1907 4808; x_wconf 65' lang='lat' dir='ltr'><strong>‘rmus</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1936 4777 1978 4807; x_wconf 75' lang='lat' dir='ltr'><strong>B.</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 2000 4777 2042 4809; x_wconf 76' lang='lat' dir='ltr'><strong>G.</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 2060 4773 2315 4805; x_wconf 57' lang='lat' dir='ltr'>&#39;rnvmutut</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

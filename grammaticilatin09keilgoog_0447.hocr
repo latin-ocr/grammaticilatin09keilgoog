@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./grammaticilatin09keilgoog_0447.png"; bbox 0 0 3613 5528; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1043 2108 2430 2245">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 0 1691 2430 2326">
+     <span class='ocr_line' id='line_1_1' title="bbox 1043 2108 2430 2245; baseline 0.006 -8.562"><span class='ocrx_word' id='word_1_1' title='bbox 1043 2108 1797 2245; x_wconf 81' lang='lat' dir='ltr'><strong>ARVSIANI</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1887 2109 2430 2245; x_wconf 77' lang='lat' dir='ltr'>MESSH</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 629 2549 2833 2648">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 629 2549 2833 2648">
+     <span class='ocr_line' id='line_1_2' title="bbox 629 2549 2833 2648; baseline 0 -1"><span class='ocrx_word' id='word_1_3' title='bbox 629 2549 1453 2648; x_wconf 89' lang='lat' dir='ltr'><strong>EXEMPLA</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1560 2549 2833 2648; x_wconf 80' lang='lat' dir='ltr'>ELOOVTIONVM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 435 2871 3025 3071">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 2681 3025 3551">
+     <span class='ocr_line' id='line_1_3' title="bbox 435 2871 3025 2947; baseline 0 -2.856"><span class='ocrx_word' id='word_1_5' title='bbox 435 2871 572 2944; x_wconf 88' lang='lat' dir='ltr'><strong>EX</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 635 2871 1148 2946; x_wconf 81' lang='lat' dir='ltr'>VERGILIO</span> <span class='ocrx_word' id='word_1_7' title='bbox 1215 2872 1798 2946; x_wconf 85' lang='lat' dir='ltr'>SALLVS&#39;I&#39;IO</span> <span class='ocrx_word' id='word_1_8' title='bbox 1875 2872 2419 2946; x_wconf 86' lang='lat' dir='ltr'>TERENTIO</span> <span class='ocrx_word' id='word_1_9' title='bbox 2493 2872 3025 2947; x_wconf 81' lang='lat' dir='ltr'>CICERONE</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 1121 2990 2338 3071; baseline -0.001 -1"><span class='ocrx_word' id='word_1_10' title='bbox 1121 2990 1542 3071; x_wconf 80' lang='lat' dir='ltr'><strong>DIGES&#39;I&#39;A</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1595 2997 1785 3070; x_wconf 86' lang='lat' dir='ltr'><strong>PER</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1838 2995 2338 3070; x_wconf 84' lang='lat' dir='ltr'><strong>LITTERAS.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
